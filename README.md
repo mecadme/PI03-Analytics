@@ -96,26 +96,4 @@ Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace 
 
 Sin más que decir, te comparto un vídeo demostrativo de las consultas hechas en el API.
 
-# <h1 align=center> *`Gracias por acompañarme en este viaje a travées de mi proyecto...`* </h1>
-
-# **PROYECTO INDIVIDUAL Nº3**
-
-# <h1 align="center">**`Telecomunicaciones`**</h1>
-
-En esta ocasión de hace un análisis exploratorio de l
-
-<img src = 'https://i.pinimg.com/originals/06/01/4c/06014cb5dbc08b16d3f105d97bc5c85e.png' height = 200>
-
-
-
-### Desarrollo
-
-En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un **análisis** completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar **acceso a internet**, pero también es importante considerar el resto de los servicios. 
-
-Con el fin de monitorear la eficacia de los objetivos de la empresa, se le pide **visualizar** en un dashboard el siguiente KPI y **establecer 3 KPIs adicionales** producto de su análisis:
-
-+ Evaluar el aumento o disminución de la variación porcentual **trimestral** del servicio de internet, cada 100 hogares por provincia. [(dataset)](https://www.google.com/url?q=https://datosabiertos.enacom.gob.ar/visualizations/32226/penetracion-de-internet-fijo-accesos-por-cada-100-hogares/&sa=D&source=docs&ust=1671204570423891&usg=AOvVaw0YwFIM-MNjsy094L_FOFM3)
-
-
-
-
+# <h1 align=center> *`Gracias por acompañarme en este viaje a travées de mi proyecto...`* </h1
