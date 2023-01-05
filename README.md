@@ -73,9 +73,7 @@ Es un lenguaje de alto nivel de programación interpretado cuya filosofía hace 
 
     Los datos fueron extraídos de (https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) , fueron caragados en diferentes dataframes mediante Pandas para una mejor visualización. 
 
-<p align="center">
-<img src="src\assets\extraccion .png"  height=400>
-</p>
+
 
     Se realizó un EDA para cada dataset y corrijeron los tipos de datos, valores nulos y duplicados. Del analisis pertinente se obtuvo que:
 
